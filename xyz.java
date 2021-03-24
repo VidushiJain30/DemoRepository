@@ -9,4 +9,8 @@ public class xyz
 	{
 		return X;
 	}
+	public getstr()
+	{
+		return str;
+	}
 }

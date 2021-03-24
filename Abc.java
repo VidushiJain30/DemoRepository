@@ -4,7 +4,8 @@ public class Abc
 	{
 		for(int i=0;i<10;i++)
 		{
-			System.out.println("Hello");
+			System.out.println("Pi Value");
 		}
+		System.out.println("Thankyou");
 	}
 }
